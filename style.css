@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(241, 244, 247);
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper{
+    margin: auto;
+    
+}
+
+.details{
+    position: absolute; 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.display{
+    border: 3px solid rgb(178, 180, 180);
+    border-radius: 5px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(213, 241, 238);
+}
+
+h3, h1{
+    text-align: center;
+}
+
+h1{
+    margin-top: 55px;
+}
